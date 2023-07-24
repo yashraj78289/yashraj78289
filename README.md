@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @yashraj78289
-- 👀 I’m interested in C/Java programming
-- 🌱 I’m currently learning C/Java language
+- 👋 Hi, I’m Yash Rajbhar
+- 👀 I’m interested in Devops | cloud | Linux administration | python
+- 🌱 I’m currently learning Devops tools
+- I will describe my self as a highly enthusiastic and passionate learner aspiring to become a DevOps Engineer with a diverse skill set in Redhat Linux administration, cloud technologies, Java, Python, Docker, and containerization.Seeking opportunities to contribute to cutting-edge projects and make a significant impact in the field of DevOps.
